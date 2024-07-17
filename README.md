@@ -60,4 +60,4 @@ This project highlights my technical and analytical skills in using SQL for data
 
 
 ![image alt](https://github.com/rajashreepatra/Analysis-of-Pizza-Sales/blob/f3a1988b3dac88542845f5b94fc2918eb3cd7c81/q1.png)
-<img src="https://github.com/rajashreepatra/Analysis-of-Pizza-Sales/blob/f3a1988b3dac88542845f5b94fc2918eb3cd7c81/q1.png" width="24">
+<img src="https://github.com/rajashreepatra/Analysis-of-Pizza-Sales/blob/f3a1988b3dac88542845f5b94fc2918eb3cd7c81/q1.png" width="20", height="20">
