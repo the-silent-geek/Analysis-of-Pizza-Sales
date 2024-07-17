@@ -35,7 +35,9 @@ Advanced Insights:
    o	Efficiently extracted and transformed data using SQL queries to prepare it for analysis.
   
    o	Utilized various SQL functions to clean and format the data.
-  
+
+<ing src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q1.png" width ="48">
+
 2.	Aggregations and Grouping:
 
    o	Applied aggregate functions (SUM, COUNT) to derive meaningful insights from the data.
