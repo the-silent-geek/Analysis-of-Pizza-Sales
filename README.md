@@ -12,7 +12,7 @@ This project demonstrates my knowledge in SQL through a comprehensive analysis o
 Basic Insights:
 1.	Total Orders Placed: Retrieved the total number of orders placed, providing an overview of the store's order volume.
    <br>
-   <img src = “_” width = _ height =_>
+   <img src = “images/q1.png” width = 30 height = 30>
 3.	Total Revenue: Calculated the total revenue generated from pizza sales, offering a snapshot of the store's financial performance.
 4.	Highest-Priced Pizza: Identified the highest-priced pizza, useful for pricing strategy and premium product offerings.
 5.	Most Common Pizza Size: Determined the most frequently ordered pizza size, aiding in inventory and supply chain management.
