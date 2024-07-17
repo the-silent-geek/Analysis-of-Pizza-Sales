@@ -12,10 +12,14 @@ This project demonstrates my knowledge in SQL through a comprehensive analysis o
 Basic Insights:
 1.	Total Orders Placed: Retrieved the total number of orders placed, providing an overview of the store's order volume.
    <img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q1.png" width ="480">
-3.	Total Revenue: Calculated the total revenue generated from pizza sales, offering a snapshot of the store's financial performance.
-4.	Highest-Priced Pizza: Identified the highest-priced pizza, useful for pricing strategy and premium product offerings.
-5.	Most Common Pizza Size: Determined the most frequently ordered pizza size, aiding in inventory and supply chain management.
-6.	Top 5 Most Ordered Pizzas: Listed the top 5 most ordered pizza types along with their quantities, helping to understand customer preferences.
+2.	Total Revenue: Calculated the total revenue generated from pizza sales, offering a snapshot of the store's financial performance.
+	<img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q2.png" width ="480">
+3.	Highest-Priced Pizza: Identified the highest-priced pizza, useful for pricing strategy and premium product offerings.
+	
+4.	Most Common Pizza Size: Determined the most frequently ordered pizza size, aiding in inventory and supply chain management.
+	
+5.	Top 5 Most Ordered Pizzas: Listed the top 5 most ordered pizza types along with their quantities, helping to understand customer preferences.
+	
    
 Intermediate Insights:
 1.	Total Quantity by Pizza Category: Joined necessary tables to find the total quantity of each pizza category ordered, providing insights into category performance.
