@@ -11,7 +11,7 @@ This project demonstrates my knowledge in SQL through a comprehensive analysis o
 
 Basic Insights:
 1.	Total Orders Placed: Retrieved the total number of orders placed, providing an overview of the store's order volume.
-   	<img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q1.png" width ="480">
+<img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q1.png" width ="480">
 2.	Total Revenue: Calculated the total revenue generated from pizza sales, offering a snapshot of the store's financial performance.
 	<img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q2.png" width ="480">
 3.	Highest-Priced Pizza: Identified the highest-priced pizza, useful for pricing strategy and premium product offerings.
