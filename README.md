@@ -57,6 +57,3 @@ Advanced Insights:
 **Conclusion**
 
 This project highlights my technical and analytical skills in using SQL for data analysis. By deriving actionable insights from the pizza store's sales data, I have demonstrated my ability to handle real-world datasets and provide valuable business intelligence. I would be building further on from here to build more advanced and insightful projects by working on a diverse range of data available.
-
-
-![image alt](https://github.com/rajashreepatra/Analysis-of-Pizza-Sales/blob/f3a1988b3dac88542845f5b94fc2918eb3cd7c81/q1.png)
