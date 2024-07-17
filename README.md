@@ -32,27 +32,27 @@ Advanced Insights:
 
 •	Data Extraction and Transformation:
 
-     o	Efficiently extracted and transformed data using SQL queries to prepare it for analysis.
+   o	Efficiently extracted and transformed data using SQL queries to prepare it for analysis.
   
-     o	Utilized various SQL functions to clean and format the data.
+   o	Utilized various SQL functions to clean and format the data.
   
 •	Aggregations and Grouping:
 
-     o	Applied aggregate functions (SUM, COUNT) to derive meaningful insights from the data.
+   o	Applied aggregate functions (SUM, COUNT) to derive meaningful insights from the data.
   
-     o	Used GROUP BY clauses to categorize data and analyze trends effectively.
+   o	Used GROUP BY clauses to categorize data and analyze trends effectively.
   
 •	Subqueries and Joins:
 
-     o	Employed subqueries and joins to combine data from multiple tables, enabling complex analyses.
+   o	Employed subqueries and joins to combine data from multiple tables, enabling complex analyses.
   
-     o	Created intricate queries to answer specific business questions.
+   o	Created intricate queries to answer specific business questions.
   
 •	Date and Time Functions:
 
-     o	Leveraged date and time functions to analyze sales patterns over different periods.
+   o	Leveraged date and time functions to analyze sales patterns over different periods.
   
-     o	Extracted and manipulated date and time data to generate valuable insights.
+   o	Extracted and manipulated date and time data to generate valuable insights.
   
 **Conclusion**
 
