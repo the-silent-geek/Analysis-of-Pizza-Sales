@@ -36,7 +36,7 @@ Advanced Insights:
   
    o	Utilized various SQL functions to clean and format the data.
 
-<ing src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q1.png" width ="48">
+<img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q1.png" width ="48">
 
 2.	Aggregations and Grouping:
 
