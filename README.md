@@ -1,8 +1,10 @@
 # Analysis-of-Pizza-Sales
 **Objective**
 The objective of this project is to utilize SQL for analyzing the sales data of a pizza store, deriving valuable insights for informed business decisions. By performing various queries on the dataset, the project aims to uncover patterns and trends in sales, customer behavior, and operational efficiency. This analysis serves as a demonstration of my technical and analytical skills in SQL, showcasing my ability to handle real-world data scenarios.
+
 **Project Overview**
 This project demonstrates my knowledge in SQL through a comprehensive analysis of a pizza store's sales data. By running various queries on the given dataset, I have derived insights that are crucial for business decision-making. Below is a comprehensive description of the insights derived alongwith the code used for the same.
+
 **Insights Derived**
 Basic Insights:
 1.	Total Orders Placed: Retrieved the total number of orders placed, providing an overview of the store's order volume.
