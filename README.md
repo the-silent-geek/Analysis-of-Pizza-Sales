@@ -23,7 +23,7 @@ Basic Insights:
    
 Intermediate Insights:
 1.	Total Quantity by Pizza Category: Joined necessary tables to find the total quantity of each pizza category ordered, providing insights into category performance.
-	<img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q6.png" width ="480">
+<img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q6.png" width ="480" align = "center">
 2.	Order Distribution by Hour: Analyzed the distribution of orders by hour of the day, useful for staffing and operational efficiency.
 	<img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q7.png" width ="480">
 3.	Category-Wise Pizza Distribution: Joined relevant tables to find the category-wise distribution of pizzas, helping to optimize menu offerings.
