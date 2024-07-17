@@ -39,7 +39,7 @@ Advanced Insights:
 2.	Cumulative Revenue Over Time: Analyzed the cumulative revenue generated over time, providing a long-term view of financial performance.
 	<img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q12.png" width ="480">
 3.	Top 3 Pizzas by Revenue in Each Category: Determined the top 3 most ordered pizza types based on revenue for each pizza category, helping to identify key drivers within each category.
-	<img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q13.png" width ="400"height="280">
+	<img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q13.png" width ="400" height="280">
    
 **Technical Skills Demonstrated**
 
