@@ -30,25 +30,25 @@ Advanced Insights:
    
 **Technical Skills Demonstrated**
 
-•	Data Extraction and Transformation:
+1.	Data Extraction and Transformation:
 
    o	Efficiently extracted and transformed data using SQL queries to prepare it for analysis.
   
    o	Utilized various SQL functions to clean and format the data.
   
-•	Aggregations and Grouping:
+2.	Aggregations and Grouping:
 
    o	Applied aggregate functions (SUM, COUNT) to derive meaningful insights from the data.
   
    o	Used GROUP BY clauses to categorize data and analyze trends effectively.
   
-•	Subqueries and Joins:
+3.	Subqueries and Joins:
 
    o	Employed subqueries and joins to combine data from multiple tables, enabling complex analyses.
   
    o	Created intricate queries to answer specific business questions.
   
-•	Date and Time Functions:
+4.	Date and Time Functions:
 
    o	Leveraged date and time functions to analyze sales patterns over different periods.
   
